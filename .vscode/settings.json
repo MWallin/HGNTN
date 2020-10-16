@@ -1,0 +1,18 @@
+{
+  "files.exclude": {
+    // Basic tooling files
+    ".vscode/": true,
+    ".cache/": true,
+    ".eslint*": true,
+    ".gitignore": true,
+    ".htmlhintrc": true,
+    ".stylelintrc": true,
+    "jsconfig.json": true,
+    ".prettierrc": true,
+    "dist": true,
+    // Project files
+    "node_modules": true,
+    "README.md": true,
+    "package-lock*": true
+  }
+}
